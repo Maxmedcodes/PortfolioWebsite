@@ -1,0 +1,45 @@
+/* I am making profile circular */
+#myprofile{
+    border-radius: 50%;
+}
+/* Project Images */
+.webdesignimages{
+    border-radius: 50%;
+}
+
+#moveinproject{
+    border-color: white;
+    border-style:ridge;
+}
+/* background color */
+.gradient-background {
+    background: linear-gradient(300deg, #a80803, #3034a2, #b87e2c);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+  
+#topnav{
+    background: linear-gradient(300deg, #a80803, #3034a2, #b87e2c);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+}
+/* Skills container section */
+#git{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#terraform{
+    padding-top: 20px;
+}
+#linux{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#bash{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#cicd{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
